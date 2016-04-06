@@ -3,8 +3,8 @@ Pixi.js — A 2D JavaScript Renderer
 
 || **Status** |
 |---|---|
-|**Inline docs**         |[![Inline docs](https://inch-ci.org/github/gabrielPeart/pixi.js.svg?branch=dev)](https://inch-ci.org/github/gabrielPeart/pixi.js)|
-|**Build Status** 		 |[![Build Status](https://api.travis-ci.org/gabrielPeart/pixi.js.svg?branch=dev)](https://travis-ci.org/gabrielPeart/pixi.js)|
+|**Inline docs**         |[![Inline docs](https://inch-ci.org/github/gabrielPeart/pixi.js.svg?branch=master)](https://inch-ci.org/github/gabrielPeart/pixi.js)|
+|**Build Status** 		 |[![Build Status](https://api.travis-ci.org/gabrielPeart/pixi.js.svg?branch=master)](https://travis-ci.org/gabrielPeart/pixi.js)|
 
 ![pixi.js logo](http://www.goodboydigital.com/pixijs/pixi_v3_github-pad.png)
 
