@@ -1,14 +1,16 @@
 Pixi.js — A 2D JavaScript Renderer
 =============
 
+|| **Status** |
+|---|---|
+|**Inline docs**         |[![Inline docs](https://inch-ci.org/github/gabrielPeart/pixi.js.svg?branch=dev)](https://inch-ci.org/github/gabrielPeart/pixi.js)|
+|**Build Status** 		 |[![Build Status](https://api.travis-ci.org/gabrielPeart/pixi.js.svg?branch=dev)](https://travis-ci.org/gabrielPeart/pixi.js)|
+
 ![pixi.js logo](http://www.goodboydigital.com/pixijs/pixi_v3_github-pad.png)
 
 [![projects](http://www.pixijs.com/wp-content/uploads/2013/05/headerPanel_projects-898x342.jpg)](http://www.pixijs.com/projects/)
 
 ## Pixi.js ##
-
-[![Inline docs](https://inch-ci.org/github/gabrielPeart/pixi.js.svg?branch=dev)](https://inch-ci.org/github/gabrielPeart/pixi.js)
-[![Build Status](https://api.travis-ci.org/gabrielPeart/pixi.js.svg?branch=dev)](https://travis-ci.org/gabrielPeart/pixi.js)
 
 The aim of this project is to provide a fast lightweight 2D library that works
 across all devices. The Pixi renderer allows everyone to enjoy the power of
